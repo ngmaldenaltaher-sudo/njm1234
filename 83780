@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8">
+        <title>University Exam</title>
+        <body style=" margin: o; background: #5d2fa2; display: flex; justify-content: center; height: 100vh;">
+            <div style="text-align: center;">
+                <h1>بسم الله الرحمن الرحيم </h1>
+                <h2>الطالب : نجم الدين الطاهر مالك محمد</h2>
+                <h2>العمر  :  30</h2>
+                <h2>التخصص:IT</h2>
+                <h1 style="color: rgb(138, 14, 0);">الاهتمامات : </h1>
+                <p> Cybersecurity اهتم بدارستي ومجال الحاسوب  وخاصة مجال </p>
+                <P>واهتم ايضا بالرياضة</P>
+                <p>وقراءة الكتب والمراجع</p>
+
+                <a href="wep2.html">  اضغط للانتقال للصفحه    2 ->  </a><br>
+                <a href="wep3.html"> اضغط للانتقال للصفحه رقم  3 </a> <br>
+                <a href="wep4.html"> اضغط للانتقال للصفحه الاخيره -> </a>
+                            
+            </div>
+        </body>
+    </head>
+</html>

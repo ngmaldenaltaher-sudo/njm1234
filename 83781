@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8">
+        <title>University Exam</title>
+        <body style=" margin: o; background: #425581; display: flex; justify-content: center; height: 100vh;">
+            <div style="text-align: center;">
+                <h2> الكليه الاماراتيه للعلوم و التكنولوجيا </h2> <br>
+                <h3> كليه الامارات للعلوم والتكنولوجا </h3><br>
+                <h3> تعد الكليه من الكليات الرائدة في شتى  المجالات </h3>   <h3> تقع الجامعه في الجريف جوار طلمبة بشائر</h3>
+                <h3> ساهمت في دعم كثير من الجهات والادارة و الشركات <br>ايضا ساهمت في دعم الطلاب ماديا و معنويا </h3><br>
+                <br><h2>و اتمنى لها المذيد من الاذدهار</h2>
+                
+            </div>
+            
+        </body>
+    </head>
+</html>

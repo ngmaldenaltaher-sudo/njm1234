@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <meta charset="utf-8">
+        <title>University Exam</title>
+        <body style=" margin: o; background: #425581; display: flex; justify-content: center; height: 100vh;">
+            <div style="text-align: center;">
+                <h1>التخصص : </h1>
+                <h3> تقينيه المعلومات مجال واسع وعميق يهتم براسة انظم المعلومات بتصميمها وتطويرها . </h3>
+                <h2> ويشمل عدة مجالات منها : - </h2>
+                <ul>
+                    <li> البرمجه </li>
+                    <li> قواعد البيانات </li>
+                    <li> الامن السيبراني </li>
+                    <li> الشبكات والاتصالات </li>
+                </ul>
+                <h3>وله فوائد كثيره  منها : </h3>
+                <ul>
+                    <li> توفير المعلومات</li>
+                    <li> تحسين الامان </li>
+                    <li>تمكن المجتمعات من التوصل </li>
+                </ul>
+                <h3>ساهمت في حل كثير من المشاكل كما انها ساعد في تقدم التكنولوجيا كما نراه اليوم</h3>
+
+            </div>
+        </body>
+    </head>
+</html>
